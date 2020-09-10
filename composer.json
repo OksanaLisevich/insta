@@ -1,0 +1,14 @@
+{
+	"autoload": {
+    "psr-4": {
+      "Instagram\\": "Instagram/src"
+    }
+  },
+    "require": {
+        "monolog/monolog": "^2.1",
+        "guzzlehttp/guzzle": "^6.5",
+		"ramsey/uuid": "^4.1",
+		"netresearch/jsonmapper": "^3.1",
+		"php-curl-class/php-curl-class": "^8.8"
+    }
+}
